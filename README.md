@@ -439,7 +439,7 @@ print(Counter(sample_positive['Summary']).most_common(10))
 
 ## Summary
 
-You've performed a comprehensive analysis of Amazon reviews, including data cleaning, user categorization, text length analysis, and sentiment analysis. These steps provide a solid foundation for further analysis and modeling. Keep exploring and visualizing the data to uncover more insights!
+I have performed a comprehensive analysis of Amazon reviews, including data cleaning, user categorization, text length analysis, and sentiment analysis. These steps provide a solid foundation for further analysis and modeling. Keep exploring and visualizing the data to uncover more insights!
 
 ---
 
